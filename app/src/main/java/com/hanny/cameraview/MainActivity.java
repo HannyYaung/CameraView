@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
         initView();
         initClick();
         initData();
+
     }
 
     private void initView() {
