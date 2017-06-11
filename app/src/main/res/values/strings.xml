@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraView</string>
+    <string name="premisson_refuse">权限拒绝</string>
+</resources>
