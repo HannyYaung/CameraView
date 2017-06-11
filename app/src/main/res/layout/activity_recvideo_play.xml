@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#000000">
 
-    <com.hanny.rotaring.PlayView
+    <com.hanny.cameraview.PlayView
         android:id="@+id/playView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
